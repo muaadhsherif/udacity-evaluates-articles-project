@@ -22,7 +22,9 @@ it uses https://api.meaningcloud.com/sentiment-2.1 api.
 
 5. In the Root create a file ".env", put this line inside it: `API_KEY=******************** (your key).`
 
-6. in the command write: npm run build-dev (Should open your browser on the application.)
+6. in the command write: `npm start`
+
+7. open another command bash and write: `run build-dev`(Should open your browser on the application.)
 
 
 ## License

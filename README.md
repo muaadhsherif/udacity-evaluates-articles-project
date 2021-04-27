@@ -14,17 +14,15 @@ it uses https://api.meaningcloud.com/sentiment-2.1 api.
 ## Getting started
 1. clone the project from Github
 
-2. Open your dash on the project folder.
+2. Open your dash command on the project folder.
 
-3. enter 'npm install`.
-
-4. install the plugins.
+3. write: 'npm install`.
 
 5. You should have a key on the api to be able to use it.
 
 6.In the Root create a file ".env", put this line inside it:
 	API_KEY=******************** (your key).
-	
+7. in the command write: npm run build-dev (Should open your browser on the application.)
 
 
 ## License

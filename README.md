@@ -26,4 +26,4 @@ it uses https://api.meaningcloud.com/sentiment-2.1 api.
 
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)f
+[MIT](https://choosealicense.com/licenses/mit/)
